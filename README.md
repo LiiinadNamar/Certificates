@@ -2,8 +2,26 @@
 
 A collection of my professional certificates, badges, and learning achievements.
 
-## Google
+## Google Certificates & Badges
 
-[![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-Badge-blue)](https://www.credly.com/badges/a19b7dcd-6020-418e-9afa-c3af2f72549b/public_url)
+<p align="left">
+  <a href="https://www.credly.com/badges/a19b7dcd-6020-418e-9afa-c3af2f72549b/public_url">
+    <img src="./assets/google-ai-essentials.png" width="220" alt="Google AI Essentials certificate"/>
+  </a>
 
-[![Enterprise Search on Generative AI App Builder](https://img.shields.io/badge/Google%20Skills-Enterprise%20Search%20on%20Generative%20AI%20App%20Builder-blue)](https://www.skills.google/public_profiles/72bf6bb4-d809-4ca0-979b-bbd333573ded/badges/25121640)
+  <a href="https://www.skills.google/public_profiles/72bf6bb4-d809-4ca0-979b-bbd333573ded/badges/25121640">
+    <img src="./assets/enterprise-search-generative-ai-app-builder.png" width="220" alt="Enterprise Search on Generative AI App Builder badge"/>
+  </a>
+</p>
+
+## Anthropic Education Certificates
+
+<p align="left">
+  <a href="https://verify.skilljar.com/c/eidg32xo98xo">
+    <img src="./assets/ai-fluency-for-builders.jpg" width="220" alt="AI Fluency for Builders certificate"/>
+  </a>
+
+  <a href="https://verify.skilljar.com/c/cj9pzjuwoegf">
+    <img src="./assets/ai-fluency-for-small-businesses.jpg" width="220" alt="AI Fluency for Small Businesses certificate"/>
+  </a>
+</p>
