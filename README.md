@@ -18,10 +18,10 @@ A collection of my professional certificates, badges, and learning achievements.
 
 <p align="left">
   <a href="https://verify.skilljar.com/c/eidg32xo98xo">
-    <img src="./assets/ ai-fluency-for-builders.jpg" width="220" alt="AI Fluency for Builders certificate"/>
+    <img src="./assets/ ai-fluency-for-builders.jpg" width="320" alt="AI Fluency for Builders certificate"/>
   </a>
 
   <a href="https://verify.skilljar.com/c/cj9pzjuwoegf">
-    <img src="./assets/ai-fluency-for-small-businesse.jpg" width="220" alt="AI Fluency for Small Businesses certificate"/>
+    <img src="./assets/ai-fluency-for-small-businesse.jpg" width="320" alt="AI Fluency for Small Businesses certificate"/>
   </a>
 </p>
